@@ -1,4 +1,5 @@
 package org.example.java8practice.java8programs;
+import java.lang.*;
 
 import java.util.*;
 import java.util.stream.Collectors;
