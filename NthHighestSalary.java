@@ -18,8 +18,6 @@ public class NthHighestSalary {
             map.put("krishna", 16000);
             map.put("ramesh", 16000);
             map.put("satish", 10000);
-            map.put("varun", 15000);
-	    map.put("manoj", 60000);
 			System.out.println("Firts gIT ");
             //Map.Entry<String, Integer> stringIntegerEntry = map.entrySet().stream().sorted(Collections.reverseOrder(Map.Entry.comparingByValue())).collect(Collectors.toList()).get(n-1);
             //return  stringIntegerEntry;
